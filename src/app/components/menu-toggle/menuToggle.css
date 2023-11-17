@@ -1,0 +1,9 @@
+.toogle-button{
+    border: none;
+    z-index: 999;
+    background-color: transparent;
+}
+
+.icon-color {
+    filter: brightness(0) invert(1);;
+}
